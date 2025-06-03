@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Welcome to My GitHub Page
+title: Welcome to My Site
 ---
+
 
 # 👋 Hello, World!
 
